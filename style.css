@@ -1,0 +1,12 @@
+.profile-photo {
+    border-radius: 100%;
+}
+
+body{
+    background-color: bisque;
+}
+
+h1 {
+    color: darkred;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
