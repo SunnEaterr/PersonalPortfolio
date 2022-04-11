@@ -10,3 +10,10 @@ h1 {
     color: darkred;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
+
+h2 {
+    border-radius: 100%;
+}
+.div_1 {
+    background-color: aquamarine;
+}
